@@ -7,7 +7,7 @@
 - deliver items to users.
 
 ## Ideal Case of Scenario
-1) Generate an item, with user's choice of an identifier name, also a the price of the item in Wei.
+1) Generate an item, with user's choice of an identifier name, also the price of the item in Wei.
 2) Metamask pop-up, to confirm the transaction cost, with the gas fee included. 
 3) Pop-up Alert, notifing item has been created, with an address of the item.
 4) Make transaction from your wallet account in Metamask, to the address of the item, with the price in Wei.
